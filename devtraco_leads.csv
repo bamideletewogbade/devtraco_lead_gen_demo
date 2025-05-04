@@ -1,0 +1,101 @@
+lead_id,source,budget,time_on_website,property_type,location_pref,contacted,converted,offline_activity
+53,SalesOffice,1025281,202,Studio,Takoradi,Yes,No,BrochureTaken
+90,Facebook,1174705,7,2-Bedroom,Takoradi,Yes,Yes,N/A
+55,PropertyWebsite,2280415,57,2-Bedroom,East Legon,No,No,N/A
+73,GhanaNewsOnline,2204104,147,Studio,East Legon,Yes,No,N/A
+50,GhanaNewsOnline,1216880,0,3-Bedroom,Accra,No,No,N/A
+49,PropertyWebsite,2331266,0,Studio,East Legon,Yes,No,N/A
+71,AirportSetup,2919823,845,Studio,Accra,Yes,No,Consultation
+16,GhanaNewsOnline,309556,304,3-Bedroom,Takoradi,Yes,No,N/A
+59,GhanaNewsOnline,2361729,302,Commercial,East Legon,Yes,No,N/A
+54,SalesOffice,2200804,192,Commercial,Accra,No,Yes,SiteVisit
+61,Facebook,2083743,140,2-Bedroom,East Legon,Yes,No,N/A
+17,GoogleAds,726981,388,2-Bedroom,Accra,No,No,N/A
+24,Facebook,608923,24,Commercial,East Legon,Yes,No,N/A
+7,GhanaNewsOnline,398286,40,2-Bedroom,Kumasi,No,No,N/A
+79,Facebook,2407618,974,2-Bedroom,Tema,Yes,No,N/A
+82,MallActivation,1201896,0,Commercial,Kumasi,Yes,No,Consultation
+72,GhanaNewsOnline,2266976,0,Studio,Takoradi,Yes,No,N/A
+3,MallActivation,385340,0,Commercial,East Legon,Yes,Yes,None
+30,GhanaNewsOnline,327948,57,2-Bedroom,East Legon,No,Yes,N/A
+98,Facebook,6504473,0,Penthouse,Tema,No,Yes,N/A
+41,GhanaNewsOnline,1813343,163,2-Bedroom,Accra,Yes,No,N/A
+32,GhanaNewsOnline,602690,86,3-Bedroom,Kumasi,No,No,N/A
+80,GhanaNewsOnline,942483,707,3-Bedroom,Kumasi,Yes,Yes,N/A
+34,SalesOffice,651269,376,3-Bedroom,Kumasi,Yes,Yes,BrochureTaken
+35,Event,221959,0,Studio,Takoradi,Yes,No,None
+91,GhanaNewsOnline,6717270,505,Commercial,Accra,Yes,No,N/A
+65,GoogleAds,2541093,322,2-Bedroom,Kumasi,Yes,Yes,N/A
+19,Facebook,225939,0,2-Bedroom,Accra,Yes,No,N/A
+57,GhanaNewsOnline,2106002,0,3-Bedroom,Accra,Yes,Yes,N/A
+39,MallActivation,535674,242,2-Bedroom,Accra,Yes,Yes,SiteVisit
+51,Event,1570746,192,3-Bedroom,Kumasi,No,No,None
+58,GhanaNewsOnline,977789,287,Penthouse,East Legon,Yes,Yes,N/A
+89,SalesOffice,1625816,559,Studio,East Legon,No,No,Consultation
+62,GoogleAds,1481669,294,Studio,East Legon,Yes,Yes,N/A
+21,MallActivation,742335,0,Penthouse,Tema,Yes,No,Consultation
+1,Facebook,250015,101,3-Bedroom,Tema,Yes,Yes,N/A
+67,GhanaNewsOnline,906081,0,Studio,Takoradi,No,No,N/A
+70,Event,2715631,264,2-Bedroom,Accra,Yes,No,BrochureTaken
+22,GhanaNewsOnline,488249,0,Studio,East Legon,Yes,No,N/A
+14,GoogleAds,264044,0,Penthouse,Accra,Yes,No,N/A
+84,GhanaNewsOnline,1277095,5,Commercial,Takoradi,No,No,N/A
+9,MallActivation,524767,440,3-Bedroom,Tema,No,No,None
+93,AirportSetup,4658845,37,3-Bedroom,East Legon,Yes,No,SiteVisit
+28,PropertyWebsite,654589,0,2-Bedroom,Kumasi,Yes,No,N/A
+42,Facebook,2882263,85,Studio,Takoradi,Yes,No,N/A
+100,GhanaNewsOnline,7341747,58,2-Bedroom,Kumasi,Yes,Yes,N/A
+37,GoogleAds,737833,0,Studio,East Legon,Yes,Yes,N/A
+85,GoogleAds,871295,29,Studio,Kumasi,Yes,No,N/A
+4,PropertyWebsite,310687,11,2-Bedroom,Kumasi,No,Yes,N/A
+48,PropertyWebsite,1565313,12,3-Bedroom,Accra,No,No,N/A
+81,SalesOffice,2833350,65,2-Bedroom,Kumasi,No,No,Consultation
+44,SalesOffice,2686013,425,3-Bedroom,Kumasi,Yes,No,None
+63,AirportSetup,1919043,0,3-Bedroom,East Legon,No,No,BrochureTaken
+64,Facebook,2229626,582,2-Bedroom,East Legon,Yes,Yes,N/A
+60,GoogleAds,1637291,13,3-Bedroom,Takoradi,No,No,N/A
+99,GhanaNewsOnline,5204664,99,Studio,Kumasi,Yes,No,N/A
+33,GhanaNewsOnline,699046,239,3-Bedroom,Kumasi,Yes,No,N/A
+25,Facebook,615192,7,Commercial,East Legon,Yes,Yes,N/A
+18,PropertyWebsite,400235,0,3-Bedroom,Accra,Yes,Yes,N/A
+40,Facebook,261087,283,3-Bedroom,Kumasi,Yes,Yes,N/A
+94,PropertyWebsite,5026793,357,3-Bedroom,East Legon,No,No,N/A
+75,MallActivation,2459066,0,3-Bedroom,Tema,Yes,No,BrochureTaken
+12,Event,243585,26,3-Bedroom,Tema,Yes,Yes,SiteVisit
+96,Facebook,3147718,0,3-Bedroom,Takoradi,Yes,Yes,N/A
+46,MallActivation,839353,37,Studio,Takoradi,Yes,No,SiteVisit
+83,GoogleAds,2982048,31,Studio,Takoradi,No,No,N/A
+23,GoogleAds,275766,173,2-Bedroom,Tema,Yes,No,N/A
+6,GhanaNewsOnline,305878,133,3-Bedroom,Tema,Yes,Yes,N/A
+95,AirportSetup,3554594,297,2-Bedroom,Kumasi,Yes,No,SiteVisit
+11,GhanaNewsOnline,615515,292,3-Bedroom,Tema,No,No,N/A
+20,GoogleAds,352906,117,Studio,East Legon,No,No,N/A
+69,GhanaNewsOnline,910078,8,Studio,East Legon,Yes,No,N/A
+78,GhanaNewsOnline,1710681,146,2-Bedroom,Kumasi,Yes,No,N/A
+43,GhanaNewsOnline,2296176,132,Studio,East Legon,Yes,No,N/A
+26,AirportSetup,768550,0,2-Bedroom,Takoradi,Yes,No,SiteVisit
+77,AirportSetup,1111955,851,Commercial,Accra,Yes,No,None
+36,AirportSetup,428576,98,2-Bedroom,East Legon,Yes,No,None
+27,GhanaNewsOnline,587261,542,3-Bedroom,East Legon,No,No,N/A
+2,Event,322096,0,3-Bedroom,Tema,Yes,Yes,SiteVisit
+45,GoogleAds,1239792,4,3-Bedroom,Accra,No,No,N/A
+76,MallActivation,2948815,236,2-Bedroom,Accra,Yes,No,None
+68,AirportSetup,2461909,308,2-Bedroom,Accra,Yes,No,BrochureTaken
+92,MallActivation,4856926,99,2-Bedroom,Accra,Yes,No,BrochureTaken
+87,MallActivation,1687121,22,2-Bedroom,Accra,Yes,No,SiteVisit
+97,PropertyWebsite,7839567,398,2-Bedroom,Takoradi,No,No,N/A
+8,SalesOffice,364899,221,Penthouse,Kumasi,Yes,Yes,None
+29,PropertyWebsite,337848,157,2-Bedroom,Takoradi,Yes,Yes,N/A
+15,GhanaNewsOnline,642296,0,2-Bedroom,Tema,Yes,No,N/A
+56,SalesOffice,1069536,170,2-Bedroom,Tema,Yes,No,SiteVisit
+52,AirportSetup,1613168,0,Studio,Accra,Yes,No,BrochureTaken
+88,MallActivation,1856731,115,Commercial,Tema,Yes,No,None
+47,GoogleAds,865318,0,Studio,Takoradi,No,No,N/A
+31,MallActivation,779304,51,3-Bedroom,Accra,Yes,No,BrochureTaken
+13,AirportSetup,571369,15,Studio,East Legon,No,No,SiteVisit
+38,GhanaNewsOnline,365838,0,2-Bedroom,Accra,Yes,No,N/A
+74,AirportSetup,2808187,309,3-Bedroom,East Legon,Yes,No,SiteVisit
+5,GhanaNewsOnline,611357,518,2-Bedroom,Tema,Yes,No,N/A
+10,MallActivation,579989,72,2-Bedroom,Kumasi,No,No,BrochureTaken
+66,PropertyWebsite,2818163,53,Penthouse,Kumasi,No,Yes,N/A
+86,GoogleAds,1543974,344,3-Bedroom,Tema,Yes,Yes,N/A
