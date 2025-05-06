@@ -69,7 +69,7 @@ np.random.seed(42)
 # DevTraco-specific parameters
 num_leads = 100  # Larger dataset for better demo
 online_channels = ["GhanaNewsOnline", "GoogleAds", "Facebook", "PropertyWebsite"]
-offline_channels = ["MallActivation", "AirportActivation", "SalesOffice", "Event"]
+offline_channels = ["MallActivation", "MarketActivation", "SalesOffice", "Event"]
 all_channels = online_channels + offline_channels
 
 # Consultant names (using common Ghanaian names)
@@ -134,7 +134,7 @@ channel_factors = {
     "Facebook": 1.1,
     "PropertyWebsite": 1.4,
     "MallActivation": 1.0,
-    "AirportActivation": 0.9,
+    "MarketActivation": 0.9,
     "SalesOffice": 1.2,
     "Event": 1.1
 }
