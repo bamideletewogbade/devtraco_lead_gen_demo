@@ -69,11 +69,11 @@ np.random.seed(42)
 # DevTraco-specific parameters
 num_leads = 100  # Larger dataset for better demo
 online_channels = ["GhanaNewsOnline", "GoogleAds", "Facebook", "PropertyWebsite"]
-offline_channels = ["MallActivation", "AirportSetup", "SalesOffice", "Event"]
+offline_channels = ["MallActivation", "AirportActivation", "SalesOffice", "Event"]
 all_channels = online_channels + offline_channels
 
 # Consultant names (using common Ghanaian names)
-consultants = ["Millicent", "Nadia", "Rabby", "Joseph", "Billy", "Isaac", "Dawn", "Felicia"]
+consultants = ["Seun", "Tyler", "David", "Tola", "Tope", "Paul", "Abena", "Jackie"]
 
 # Ghana-specific real estate price ranges (in GHS)
 budget_ranges = {
@@ -117,14 +117,14 @@ base_rate = 0.25
 
 # Set consultant-specific effectiveness (some consultants are better than others)
 consultant_factors = {
-    "Nadia": 1.5,  # Kwame is great overall
-    "Billy": 1.3,    # Ama is good overall
-    "Millicent": 0.9,   # Kofi is below average
-    "Rabby": 1.2,  # Abena is good
-    "Felicia": 1.0,   # Kojo is average
-    "Isaac": 1.1, # Akosua is slightly above average
-    "Joseph": 0.8,    # Yaw is below average
-    "Dawn": 1.4     # Esi is very good
+    "Seun": 1.5,  # Kwame is great overall
+    "Tola": 1.3,    # Ama is good overall
+    "Tope": 0.9,   # Kofi is below average
+    "Abena": 1.2,  # Abena is good
+    "David": 1.0,   # Kojo is average
+    "Paul": 1.1, # Akosua is slightly above average
+    "Tyler": 0.8,    # Yaw is below average
+    "Jackie": 1.4     # Esi is very good
 }
 
 # Set channel-specific effectiveness
@@ -134,19 +134,19 @@ channel_factors = {
     "Facebook": 1.1,
     "PropertyWebsite": 1.4,
     "MallActivation": 1.0,
-    "AirportSetup": 0.9,
+    "AirportActivation": 0.9,
     "SalesOffice": 1.2,
     "Event": 1.1
 }
 
 # Some consultants have specialties with certain channels
 consultant_channel_specialties = {
-    ("Dawn", "GoogleAds"): 1.7,
-    ("Billy", "Facebook"): 1.8,
-    ("Millicent", "PropertyWebsite"): 1.6,
-    ("Rabby", "MallActivation"): 1.9,
-    ("Joseph", "SalesOffice"): 1.5,
-    ("Dawn", "GhanaNewsOnline"): 1.6
+    ("Jackie", "GoogleAds"): 1.7,
+    ("Tyler", "Facebook"): 1.8,
+    ("Bamidele", "PropertyWebsite"): 1.6,
+    ("Tola", "MallActivation"): 1.9,
+    ("Jackie", "SalesOffice"): 1.5,
+    ("David", "GhanaNewsOnline"): 1.6
 }
 
 # Calculate conversion probabilities
